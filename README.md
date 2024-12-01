@@ -14,6 +14,8 @@ By default the changed values are:
 
 ![Range](https://github.com/DeltaFA/Beacon-Interference/raw/main/showcase_assets/Range.png)
 
+![Module Slots](https://github.com/DeltaFA/Beacon-Interference/raw/main/showcase_assets/Slots.png)
+
 All changes except power draw can be modified via Startup Settings.
 
 # Beacon Overload
