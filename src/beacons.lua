@@ -9,7 +9,7 @@ local function alert(machine)
 				type = "virtual",
 				name = "beacon-overload",
 			},
-			{ "beacon-overload.alert" },
+			{ "beacon-overload.alert", "[entity="..machine.name.."] __ENTITY__"..machine.name.."__" },
 			true
 		)
 	end
