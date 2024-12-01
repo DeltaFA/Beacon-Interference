@@ -1,6 +1,8 @@
 # Beacon Rebalance [Δ]
 Makes beacons stronger at the cost of introducing the Beacon Overload mechanic.
 
+A standalone part of the Delta [Δ] Overhaul.
+
 # Rebalance
 By default the changed values are:
 
