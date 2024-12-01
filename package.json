@@ -1,5 +1,5 @@
 {
-  "name": "delta-beacon-interference",
+  "name": "delta-beacon-rebalance",
   "version": "1.0.0",
   "scripts": {
     "build": "tsx build.ts",
