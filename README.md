@@ -1,8 +1,4 @@
-# Delta-Template
-A template for more Delta Mods
+# Beacon Interference [Δ]
+Makes all machines stop working if they're affected by more than one beacon.
 
-# IMPORTANT YOU FUCK
-## Required Stuff
-### Node
-### Pnpm
-### Factorio (duh)
+![Beacon Overload](https://raw.githubusercontent.com/DeltaFA/Delta-Beacon-Interference/refs/heads/main/showcase_assets/Overload.png)
