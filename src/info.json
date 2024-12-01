@@ -1,12 +1,12 @@
 {
   "name": "delta-beacon-rebalance",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "factorio_version": "2.0",
   "title": "Beacon Rebalance [Δ]",
-  "author": "",
+  "author": "AzzyBunn",
   "contact": "",
   "homepage": "",
-  "description": "",
+  "description": "Makes beacons stronger at the cost of introducing the Beacon Overload mechanic.",
   "dependencies": [
     "base >= 2.0.21"
   ]
