@@ -1,0 +1,13 @@
+{
+  "name": "MOD-NAME-HERE",
+  "version": "0.0.1",
+  "factorio_version": "2.0",
+  "title": "[MOD NAME HERE]",
+  "author": "",
+  "contact": "",
+  "homepage": "",
+  "description": "",
+  "dependencies": [
+    "base >= 2.0.21"
+  ]
+}
