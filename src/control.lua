@@ -24,7 +24,6 @@ local function on_entity_removed(event)
 	end
 end
 
-
 script.on_event(defines.events.on_built_entity, on_entity_added)
 script.on_event(defines.events.on_robot_built_entity, on_entity_added)
 script.on_event(defines.events.script_raised_built, on_entity_added)

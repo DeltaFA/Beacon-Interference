@@ -13,8 +13,10 @@ beacon.distribution_effectivity_bonus_per_quality_level = get_setting("distribut
 beacon.supply_area_distance = get_setting("supply-area-distance")
 
 beacon.icons_positioning = {{
-	inventory_index = defines.inventory.beacon_modules, 
-	shift = {0, 0}, 
-	multi_row_initial_height_modifier = -0.3, 
+	inventory_index = defines.inventory.beacon_modules,
+	shift = {0, 0},
+	multi_row_initial_height_modifier = -0.3,
 	max_icons_per_row = 5
 }}
+
+beacon.localised_description = { "", {"entity-description.beacon"}, {"beacon-overload.description"} }
