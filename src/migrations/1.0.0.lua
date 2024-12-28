@@ -1,3 +1,5 @@
+--Compatibilty with old saves
+
 local beacons = require("beacons")
 
 --find all beacons and trigger check

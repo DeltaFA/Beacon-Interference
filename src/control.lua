@@ -28,11 +28,13 @@ script.on_event(defines.events.on_built_entity, on_entity_added)
 script.on_event(defines.events.on_robot_built_entity, on_entity_added)
 script.on_event(defines.events.script_raised_built, on_entity_added)
 script.on_event(defines.events.script_raised_revive, on_entity_added)
+script.on_event(defines.events.on_space_platform_built_entity, on_entity_added)
 
 script.on_event(defines.events.on_entity_died, on_entity_removed)
 script.on_event(defines.events.on_pre_player_mined_item, on_entity_removed)
 script.on_event(defines.events.on_robot_pre_mined, on_entity_removed)
 script.on_event(defines.events.script_raised_destroy, on_entity_removed)
+script.on_event(defines.events.on_space_platform_mined_entity, on_entity_removed)
 
 --keep the alert
 script.on_nth_tick(300, beacons.alert_loop)
